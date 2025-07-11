@@ -1,3 +1,7 @@
+const token = process.env.token;
+const CHANNEL_ID = process.env.channel_id;
+const ROLE_ID = process.env.role__id;
+
 import {loadConfig} from "./misc/config.js";
 import {startBot} from "./discord/bot.js";
 import {loadLogger} from "./misc/logger.js";

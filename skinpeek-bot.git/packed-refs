@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+7c6147db40ac88adff659c8855e174a155673748 refs/heads/dependabot/npm_and_yarn/discord.js-14.21.0
+c0197c3693b5efe1df86d501724353f50432f957 refs/heads/dependabot/npm_and_yarn/fuzzysort-3.1.0
+0fd29c092738a82986285212d8ff0cb5922d6732 refs/heads/dependabot/npm_and_yarn/node-cron-4.2.1
+6905d558dd2bd25e3ec97fa4599e3dd507cbdfcc refs/heads/master
+7c6147db40ac88adff659c8855e174a155673748 refs/pull/1/head
+a4c236623dfbbdb0369d0a91068f12e3ade330c9 refs/pull/1/merge
+0fd29c092738a82986285212d8ff0cb5922d6732 refs/pull/2/head
+02517fee120ad4d946219f060207220ec65444b0 refs/pull/2/merge
+c0197c3693b5efe1df86d501724353f50432f957 refs/pull/3/head
+6094c3deb9d2c1cdb9619aa1732a3580a32ed8ce refs/pull/3/merge
