@@ -482,7 +482,7 @@ client.on("messageCreate", async (message) => {
                     s += "\nI noticed you changed the token. You'll have to restart the bot for that to happen."
                 await message.reply(s);
             } else if (splits[1] === "read") {
-                const s = "Here is the ***REMOVED*** the bot currently has loaded:```json\n" + JSON.stringify({
+                const s = "Here is the config.json the bot currently has loaded:```json\n" + JSON.stringify({
                     ...config,
                     token: "[redacted]",
                     "githubToken": config.githubToken ? "[redacted]" : config.githubToken,

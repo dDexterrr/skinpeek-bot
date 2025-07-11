@@ -12,7 +12,7 @@ import {transferUserDataFromOldUsersJson} from "./valorant/auth.js";
  * Password encryptor
  * Inspect weapon skin (all 4 levels + videos + radianite upgrade price)
  * Option to send shop automatically every day
- * More options in ***REMOVED***
+ * More options in config.json
  * Simple analytics to see how many servers the bot is in
  * Admin commands (delete user, see/edit everyone's alerts, etc.)
  */
